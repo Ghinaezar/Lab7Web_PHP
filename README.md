@@ -5,6 +5,7 @@
 <img width="1917" height="720" alt="Cuplikan layar 2026-11-15 000219" src="https://github.com/user-attachments/assets/49651f89-ba66-45a5-bc67-7074684bf62f" />
 <img width="1917" height="760" alt="Cuplikan layar 2026-11-15 000413" src="https://github.com/user-attachments/assets/05ea4529-f043-41b1-bc27-abbfaa02a0d0" />
 <img width="1917" height="770" alt="Cuplikan layar 2026-11-15 000452" src="https://github.com/user-attachments/assets/d59c879f-aa37-4a54-b621-9786164dde5c" />
-![Uploading Cuplikan layar 2026-11-15 000529.png…]()
+<img width="1917" height="818" alt="Cuplikan layar 2026-11-15 000529" src="https://github.com/user-attachments/assets/438c6f89-7e66-40fd-ba33-1b61701655c5" />
+
 
 # Lab7Web_PHP
